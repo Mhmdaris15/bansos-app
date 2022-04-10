@@ -23,8 +23,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        check: "url('/icons/check.svg')",
-        landscape: "url('/images/landscape/2.jpg')",
+        autumn: './src/img/joshua-fuller-SFRVfLZ7ORo-unsplash.jpg',
+        mountain: './src/img/norris-niman-ePB2oGU8mb4-unsplash.jpg'
       }),
     },
   },
