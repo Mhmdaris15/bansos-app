@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bansos-app/static/css/main.8ab71d7a.css",
+    "main.js": "/bansos-app/static/js/main.ae295857.js",
+    "static/js/787.c7b79c34.chunk.js": "/bansos-app/static/js/787.c7b79c34.chunk.js",
+    "static/media/joshua-fuller-SFRVfLZ7ORo-unsplash.jpg": "/bansos-app/static/media/joshua-fuller-SFRVfLZ7ORo-unsplash.fe6c2372b4bb6b1e3c00.jpg",
+    "static/media/norris-niman-ePB2oGU8mb4-unsplash.jpg": "/bansos-app/static/media/norris-niman-ePB2oGU8mb4-unsplash.053cb48471c359aef4ae.jpg",
+    "static/media/society-for-bansos-website.jpg": "/bansos-app/static/media/society-for-bansos-website.b506d3f0973177b47204.jpg",
+    "index.html": "/bansos-app/index.html",
+    "main.8ab71d7a.css.map": "/bansos-app/static/css/main.8ab71d7a.css.map",
+    "main.ae295857.js.map": "/bansos-app/static/js/main.ae295857.js.map",
+    "787.c7b79c34.chunk.js.map": "/bansos-app/static/js/787.c7b79c34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ab71d7a.css",
+    "static/js/main.ae295857.js"
+  ]
+}
